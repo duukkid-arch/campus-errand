@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/ping/ping"
+  ],
+  "window": {
+    "navigationBarTitleText": "校园抢单助手",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

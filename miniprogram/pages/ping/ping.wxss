@@ -1,0 +1,21 @@
+.page { padding: 40rpx; }
+.card {
+  background: #fff;
+  border-radius: 16rpx;
+  padding: 48rpx 32rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.05);
+}
+.title { font-size: 34rpx; font-weight: 600; margin-bottom: 40rpx; }
+.btn {
+  background: #07c160;
+  color: #fff;
+  border-radius: 12rpx;
+  font-size: 30rpx;
+}
+.result {
+  margin-top: 40rpx;
+  font-size: 26rpx;
+  color: #666;
+  word-break: break-all;
+  line-height: 1.6;
+}

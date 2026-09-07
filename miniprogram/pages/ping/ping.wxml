@@ -1,0 +1,7 @@
+<view class="page">
+  <view class="card">
+    <view class="title">校园抢单助手 · 连通测试</view>
+    <button class="btn" bindtap="onPing">测试后端连接</button>
+    <view class="result">{{result}}</view>
+  </view>
+</view>
